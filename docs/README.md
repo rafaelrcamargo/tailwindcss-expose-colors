@@ -2,6 +2,9 @@
 
 Expose specific colors from your Tailwind CSS theme as CSS variables. This is useful if you want to use the colors in your `Theme` in your CSS. Maybe conditionally choose a variable in JS and use it in your CSS.
 
+> [!IMPORTANT]
+> This is a **complete rewrite** of the snippet I provided in the [Gist](https://gist.github.com/Merott/d2a19b32db07565e94f10d13d11a8574) wich started this conversation. As I saw the usage potential of this piece of code I decided to turn it into a package, _with enhancements and even more use cases_. Enjoy! 😃
+
 ## Options
 
 - `colors`: `string[]`
